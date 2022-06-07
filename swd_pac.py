@@ -621,7 +621,4 @@ def PAC_SWD_nn(first_samples, second_samples, num_projections, prior_samples, f,
 
     return wasserstein_distance, projections
 
-=======
-    
-    return wasserstein_distance, thetas #projections
->>>>>>> 7fb258a3b92c0015e4628556b942caae8d685b20
+
